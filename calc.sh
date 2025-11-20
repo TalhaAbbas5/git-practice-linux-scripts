@@ -17,7 +17,7 @@ echo "Number 2: $num2"
 sum=$((num1 + num2))
 sub=$((num1 - num2))
 
-echo "=== Calculation Results (master version) ==="
+echo "=== Calculation Results (master version) === New Conflict "
 echo "  Sum: $sum"
 echo "Subtraction: $sub"
 
