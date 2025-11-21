@@ -20,4 +20,4 @@ sub=$((num1 - num2))
 echo "=== Calculation Results (master version) === New Conflict "
 echo "  Sum: $sum"
 echo "Subtraction Result (MASTER): $sub"
-
+echo "Thank you for using calculator!"
