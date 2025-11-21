@@ -18,6 +18,6 @@ sum=$((num1 + num2))
 sub=$((num1 - num2))
 
 echo "=== Calculation Results (master version) === New Conflict "
-echo "SUM = $(($num1 + $num2))"
+echo "Addition result is: $(($num1 + $num2))"
 echo "Subtraction Result (MASTER): $sub"
 echo "Thank you for using calculator!"
